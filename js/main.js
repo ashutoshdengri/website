@@ -62,7 +62,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Software Developer.", "Researcher.", "Programmer.", "Creator.", "Ashutosh Singh Dengri."],
+      strings: ["Software Developer.", "Researcher.", "Gamer.", "Creator.", "Ashutosh Singh Dengri."],
       typeSpeed: 100,
       loop: true,
     });
